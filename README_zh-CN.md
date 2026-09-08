@@ -4,7 +4,7 @@
 
 <p align="center"><strong>多模态收藏卡检索、智能排序与结构化信息提取</strong></p>
 
-<p align="center"><a href="README_zh-CN.md">简体中文</a> · <a href="#快速开始">快速开始</a> · <a href="#api-端点覆盖范围">API</a></p>
+<p align="center"><a href="README.md">英文</a> · <a href="#快速开始">快速开始</a> · <a href="#api-端点覆盖范围">API</a></p>
 
 <p align="center"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-Production%20API-009688?logo=fastapi&logoColor=white"> <img src="https://img.shields.io/badge/Milvus-Million--Scale%20ANN-00A1EA"> <img src="https://img.shields.io/badge/YOLOv8-Card%20Vision-111F68"> <img src="https://img.shields.io/badge/Qwen3--VL--8B-OCR%20%26%20Parsing-7B61FF"></p>
 
